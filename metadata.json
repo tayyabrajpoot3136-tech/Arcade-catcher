@@ -1,0 +1,8 @@
+{
+  "name": "Arcade Catcher",
+  "description": "A fast-paced 2D reflex arcade game where you catch falling crystals and power-ups while dodging hazards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
